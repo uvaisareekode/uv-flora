@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Raleway:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Roboto+Mono:wght@100&display=swap');
+body{
+	margin: 0;
+}
+ .top{
+	background-color:#78aea2;
+	opacity: 20;
+	letter-spacing: 4px; 
+    color: red;
+    padding: 2.4cm;
+    font-family: 'Raleway', sans-serif;
+}
+.bar-item{font-family: 'Raleway', sans-serif;}
+.right{
+	float: right;
+	color: #006c74;
+	display: flex;
+	font-family: 'Raleway', sans-serif;
+	}
+.bar-item{text-decoration: none;}
+.display-condainer.uv-condant.uv-wide{max-width:1600px;min-width:500px}
+.item-bar-item{text-decoration: none;}
+.item-bar-item:hover{background-color:#f9d9bb ;padding:25px ;}
+.uv_bottom{
+	display: ;
+	padding: large;
+	opacity: 20;
+}
+.uv-xxlarge{
+	letter-spacing: 5px;
+	color: #f6aa51;
+}
+#home img{
+	width: 100%;
+	background-position:center ;
+}
+.uv-bar-item{color:#183f4e ;
+size: h4;}
+.COTANT{width: 100%;}
+.color{m6
+padding: large;
+shape-outside: laege;
+font-family: 'Abel', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+.row{padding: 64px;
+font-family: 'Abel', sans-serif;
+font-family: 'Raleway', sans-serif;}
+.about{width: 100%;height: 300px;}
+.hedh1{align-content: center;
+font-family: 'Abel', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+.head2{font-family: 'Abel', sans-serif;
+font-family: 'Raleway', sans-serif;}
+
+.foot{text-align: center; width: 100%; height: 70px;background-color: gray;}
+.foot p{padding-top: 15px;}
+.foot{font-family: 'Roboto Mono', monospace;}
+.bar img{
+	float: left;
+}
+.form {display: flex;
+	 justify-content: center;
+	 font-family: 'Nunito', sans-serif;
+font-family: 'Roboto Mono', monospace;
+	}
+.form input[type="text"]{
+	height: 50px;width:500px;
+}	
